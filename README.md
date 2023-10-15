@@ -1,1 +1,1 @@
-# olivers-recipes
+This recipe webpage will be used to display and store recipes for myself and family. In completing this project I hope to hone my HTML and CSS skills while also getting some practise with Git and GitHub.

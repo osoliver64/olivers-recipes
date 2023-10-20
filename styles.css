@@ -12,6 +12,10 @@ li {
     display: flex;
 }
 
+.heading-link {
+    text-decoration: none;
+}
+
 #logo {
     height: 50px;
     width: 50px;

@@ -4,9 +4,6 @@
     font-family: "Lucida Console","Courier New", monospace, sans-serif;
 }
 
-li {
-    margin: 35px 0px 50px 0px;
-}
 
 .heading {
     display: flex;
@@ -20,9 +17,17 @@ li {
     height: 50px;
     width: 50px;
     border-radius: 100px;
-    margin-top: 5px;
+    margin-top: 10px;
 }
 
-.ingredients {
+#heading-title {
+    margin-left: 20px;
+}
+
+.ingredient {
     margin: 20px 0px 20px 0px;
+}
+
+.step {
+    margin: 20px 0px 20px 0px
 }

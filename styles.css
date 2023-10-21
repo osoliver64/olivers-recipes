@@ -4,9 +4,12 @@
     font-family: "Lucida Console","Courier New", monospace, sans-serif;
 }
 
-
 .heading {
     display: flex;
+}
+
+.subheading {
+    color: #fabc3d; 
 }
 
 #logo {
@@ -23,6 +26,7 @@
 
 #heading-title {
     margin-left: 10px;
+    color: #91c7b1;
 }
 
 .ingredient,
@@ -46,3 +50,4 @@
 .food-img {
     border-radius: 15px;
 }
+

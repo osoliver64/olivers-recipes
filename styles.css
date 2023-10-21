@@ -9,7 +9,13 @@
 }
 
 .subheading {
-    color: #fabc3d; 
+    color: #fabc3d;
+    border-top: 3px dashed #91c7b1;
+    padding-top: 10px;
+}
+
+.subheading.description {
+    border-top: none;
 }
 
 #logo {

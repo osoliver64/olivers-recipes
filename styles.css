@@ -17,17 +17,24 @@
     height: 50px;
     width: 50px;
     border-radius: 100px;
-    margin-top: 10px;
+    margin-top: 8px;
+    border: 2px solid transparent;
+}
+
+#logo:hover {
+    border: 2px solid #FFFFFF;
 }
 
 #heading-title {
-    margin-left: 20px;
+    margin-left: 10px;
 }
 
-.ingredient {
+.ingredient,
+.step,
+.r-list {
     margin: 20px 0px 20px 0px;
 }
 
-.step {
-    margin: 20px 0px 20px 0px
+.food-img {
+    border-radius: 15px;
 }

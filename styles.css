@@ -9,10 +9,6 @@
     display: flex;
 }
 
-.heading-link {
-    text-decoration: none;
-}
-
 #logo {
     height: 50px;
     width: 50px;
@@ -31,8 +27,20 @@
 
 .ingredient,
 .step,
-.r-list {
+.r-list-item {
     margin: 20px 0px 20px 0px;
+}
+
+.r-list {
+    list-style-type: none;
+}
+
+.r-link:hover {
+    color: #fabc3d;
+}
+
+.r-link {
+    text-decoration: none;
 }
 
 .food-img {
